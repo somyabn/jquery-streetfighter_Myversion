@@ -25,7 +25,7 @@ div.ryu
   background-repeat: no-repeat;
 }
 .hadouken {
-  background-image: url('../images/hadouken.gif');
+  background-image: url('https://github.com/somyabn/jquery-streetfighter_Myversion/tree/gh-pages/images/hadouken.gif');
   width: 156px; 
   height: 90px;
   position: relative;
@@ -37,17 +37,17 @@ div.ryu
 }
 
 .ryu-ready {
-  background-image: url('../images/ryu-ready-position.gif');
+  background-image: url('https://github.com/somyabn/jquery-streetfighter_Myversion/tree/gh-pages/images/ryu-ready-position.gif');
 }
 
 .ryu-still {
-  background-image: url('../images/ryu-standing-still.png');
+  background-image: url('https://github.com/somyabn/jquery-streetfighter_Myversion/tree/gh-pages/images/ryu-standing-still.png');
 }
 .ryu-throwing {
-  background-image: url('../images/ryu-throwing-hadouken.png');
+  background-image: url('https://github.com/somyabn/jquery-streetfighter_Myversion/tree/gh-pages/images/ryu-throwing-hadouken.png');
 }
 .ryu-cool {
-  background-image: url('../images/ryu-cool.gif');
+  background-image: url('https://github.com/somyabn/jquery-streetfighter_Myversion/tree/gh-pages/images/ryu-cool.gif');
 }
 .how-to {
  margin-top: 45px;
